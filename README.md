@@ -1,4 +1,4 @@
-# 💰 Expense Tracker - MPOnline
+# 💰 Expense Tracker 
 
 A full-stack Expense Tracker web application to manage daily expenses, track spending, and maintain financial records efficiently.
 
